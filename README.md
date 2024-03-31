@@ -16,6 +16,6 @@ User can order products using COD cash on delivery or He can pay online (razor p
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Open [https://[DevsShop](https://devseshop.web.app/](https://devseshop.firebaseapp.com/) to view it in your browser.
+### Open [https://[DevsShop](https://devseshop.web.app/)](https://devseshop.firebaseapp.com/) to view it in your browser.
 
 

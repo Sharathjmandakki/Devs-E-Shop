@@ -1,4 +1,4 @@
-# DevsShop 
+# Devs-E-Shop 
 
 DevsShop is a Simple e commerce application built using Spring Boot and React.
 
